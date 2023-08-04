@@ -1,0 +1,28 @@
+{
+  "seller": [
+    {
+      "name": "Rohini Birhare",
+      "email": "rohini@seller.com",
+      "password": "rohini@123",
+      "id": 1
+    },
+    {
+      "name": "Palasha",
+      "password": "Admin@123",
+      "email": "palasha@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Maahi",
+      "password": "Admin@123",
+      "email": "Maahi@test.com",
+      "id": 3
+    },
+    {
+      "name": "Rani",
+      "password": "rani@123",
+      "email": "rani@test.com",
+      "id": 4
+    }
+  ]
+}
